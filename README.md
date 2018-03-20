@@ -8,5 +8,7 @@ these setup contains
 2- react-router 4
 3- es6
 4- react- helmet for seo
+5- using nodejs for server side rendering
+6- using phantom script for using node.js
 error boundary for error handler
 conditional rendering for authentication
