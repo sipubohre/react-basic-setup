@@ -40,7 +40,7 @@ export default class home extends React.Component {
           <div id="apierror"></div>
           {apierr}
           <div>
-            Welcome in react basic setup
+            Welcome in react basic setup, here you can do your work.
           </div>
         </div>
       </div>
